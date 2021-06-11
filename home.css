@@ -1,0 +1,130 @@
+﻿*{
+    margin:0;
+    padding:0;
+}
+body{
+    background-repeat:no-repeat;
+    width: 100vw;
+    height: 100vh;
+    /* background-image:url(https://media.istockphoto.com/photos/workplace-desk-with-computer-at-window-in-office-at-home-in-apartment-picture-id1182529932?k=6&m=1182529932&s=612x612&w=0&h=TXTHpxA5b9R4JEZYfeWhGFGvClHpvYvfDxLMQGVOmrA=); */
+}
+.Logo img{
+    width: 150px;
+    height:80px;
+    margin-top: -10px;
+    margin-left: -11px;
+}
+.topnav {
+    background-color: rgb(8, 6, 6);
+    overflow:hidden;
+    margin-top: -78px;
+    margin-left: 139px;
+    display:flex;
+    justify-content: space-around;
+    position:static;
+  }
+  .topnav a {
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 29px 50px;
+    text-decoration: none;
+    font-size: 17px;
+  }
+  .topnav a:hover {
+    background-color: #ddd;
+    color: black;
+  }
+  #office h1{
+    font-family: 'Aclonica';
+    text-align:left;
+    /* z-index: auto; */
+  }
+  #office p1{
+    font-family: 'Aclonica';
+    text-align:left;
+  }
+  #office p2{
+    font-family:cursive;
+    text-align:left;
+    display: block;
+  }
+  #office h2{
+    font-size: 100px;
+    visibility: hidden;
+  }
+  .welcome{
+  height: 50px;
+  width: 300px;
+  background-color: #d1ac3c;
+  margin-left: 0;
+  border-bottom-right-radius: 10px;
+  }
+  .welcome2{
+    height: 50px;
+    width: 300px;
+    background-color: #d1ac3c;
+    margin-left: 0;
+    margin-top: 30px;
+    border-top-right-radius: 10px;
+    /* border-bottom-right-radius: 10px; */
+    }
+    .welcome3{
+      height: 50px;
+      width: 300px;
+      background-color: #d1ac3c;
+      margin-left:1160px;
+      margin-top: -130px;;
+      transform: rotate(180deg);
+      border-top-right-radius: 10px;
+      }
+      .welcome4{
+        height: 50px;
+        width: 300px;
+        background-color: #d1ac3c;
+        margin-left: 1160px;
+        margin-top: 30px;
+        transform: rotate(180deg);
+        border-bottom-right-radius: 10px;
+      }
+      .text{
+        font-size: 150px;
+        margin-top: -150px;
+        margin-left: 330px;
+        justify-content: space-around;
+      }
+      .contents{
+        color: rgb(10, 10, 10);
+        font-size: 20px;
+      }
+  .image img{
+    width:100vw;
+    height:100vh;
+    margin-top: -900px;
+    z-index: -1;
+    position: fixed;
+    /* background-repeat: repeat-y; */
+    opacity: 0.6;
+  }
+  .container{
+    display: flex;
+    flex-wrap: wrap;
+  }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
