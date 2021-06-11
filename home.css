@@ -106,6 +106,10 @@ body{
     /* background-repeat: repeat-y; */
     opacity: 0.6;
   }
+  .container{
+    display:flex;
+    flex-flow: column;
+  }
   
 
 
